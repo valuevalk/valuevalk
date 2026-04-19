@@ -1,3 +1,3 @@
-## gm, sir 👋
+## gm
 
-👇 Proof-of-pwn – [dive in](https://github.com/valuevalk/audits) 👇
+👇 [dive in](https://github.com/valuevalk/audits) 👇
